@@ -1,4 +1,4 @@
-# TypingFast
+# **TypingFast**
 
 ### A game testing your typing speed!
 
